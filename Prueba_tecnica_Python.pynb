@@ -2,20 +2,20 @@ import pandas as pd
 import numpy as np
 
 # Load the CSV File
-# Load the deliveries.csv file into a pandas DataFrame
+# Load the deliveries.csv file into a pandas DataFrame using the read_csv function
 file_path = 'c:\\Users\\memoj\\Downloads\\deliveries.csv'
-df = pd.read_csv(file_path, delimiter=';')
+dataframe = pd.read_csv(file_path, delimiter=';')
 
-# Display the first few rows of the DataFrame to verify the data is loaded correctly
-df.head()
+# Display the first few rows of the DataFrame to verify the data is loaded correctly using head() function 
+print(dataframe.head())
 
 # Filter Non-Existing Emails
-# Filter the DataFrame to include only rows where the failure_message indicates that the email does not exist
-non_existing_emails_df = df[df['failure_message'].str.contains('does not exist', na=False)]
-
-# Save the filtered DataFrame to a new CSV file with comma as delimiter
-non_existing_emails_df.to_csv('non_existing_emails.csv', index=False, sep=',')
+# Filter the DataFrame to include only rows where the failure_message column contains 'does not exist' using the str.contains() function
+# As 'does not exist' is present in the error message when the email does not exist we can use this to filter the rows
+# Using na=False parameter to handle missing values in the failure_message column
+non_existing_emails_dataframe = dataframe[dataframe['failure_message'].str.contains('does not exist', na=False)]
 
 # Save the Filtered Emails to a New CSV File
-# Save the filtered DataFrame to a new CSV file with a comma as the delimiter
-non_existing_emails_df.to_csv('non_existing_emails.csv', index=False, sep=',')
+# Save the filtered DataFrame to a new CSV file with a comma as the delimiter using the to_csv() function
+# Set the index parameter to False to exclude the index column in the output CSV file
+non_existing_emails_dataframe.to_csv('non_existing_emails.csv', index=False, sep=',')

@@ -39,3 +39,5 @@ SELECT
     (revenue * 100.0 / conversions) AS average_revenue_per_conversion
 FROM 
     WebsiteAnalytics;
+
+SELECT * FROM WebsiteAnalytics;

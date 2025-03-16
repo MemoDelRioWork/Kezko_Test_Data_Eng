@@ -1,0 +1,88 @@
+id,campaign_id,campaign_name,newsletter_id,newsletter_name,template_id,template_name,transactional_message_id,transactional_message_name,subject,action_id,parent_action_id,customer_id,recipient,created,created_RFC3339,failure_message,sent,sent_RFC3339,delivered,delivered_RFC3339,opened,opened_RFC3339,clicked,clicked_RFC3339,converted,converted_RFC3339,bounced,bounced_RFC3339,spammed,spammed_RFC3339,unsubscribed,unsubscribed_RFC3339,suppressed,suppressed_RFC3339,failed,failed_RFC3339,drafted,drafted_RFC3339,topic_unsubscribed,topic_unsubscribed_RFC3339,email
+RPCtBwUAAYw2JZ5ZnHbPWa9Mgfeamw==,,,,,244,Video uploaded,6.0,Video uploaded,Video successfully uploaded!,,,bb4f7c2e1397449ff338881f23de389d,hamdi@videoblogg.com,1701715484,4/12/2023 13:44,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser n8-20020a0cfbc8000000b0067a1fc7914bsi8523477qvp.236 - gsmtp",1701715486,4/12/2023 13:44,,,,,,,,,1701715487,4/12/2023 13:44,,,,,,,,,,,,,hamdi@videoblogg.com
+RPCtBwUAAYwxTnvU1FiEs8YzG7GBlw==,,,,,305,live demo requested,13.0,live demo requested,Your Dacast demo request,,,94a99740-44db-e0a0-4ef5-650c9b49b6c5,wooodbenradel2018@gmail.com,1701634276,3/12/2023 15:11,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser pa22-20020a05620a831600b0077d6d82be81si7354355qkn.605 - gsmtp",1701634280,3/12/2023 15:11,,,,,,,,,1701634281,3/12/2023 15:11,,,,,,,,,,,,,wooodbenradel2018@gmail.com
+RPCtBwUAAYwxTntyI-06VwRoD_7k0w==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,94a99740-44db-e0a0-4ef5-650c9b49b6c5,wooodbenradel2018@gmail.com,1701634276,3/12/2023 15:11,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser fk17-20020a05622a559100b00423c137da32si8871401qtb.283 - gsmtp",1701634280,3/12/2023 15:11,,,,,,,,,1701634281,3/12/2023 15:11,,,,,,,,,,,,,wooodbenradel2018@gmail.com
+RPCtBwUAAYwiovSXhbiGB3iDLnW2Yw==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,03d5437e-03b8-0daf-f0a6-0d0a1beea0e2,keith456@stcharles.k12.la.us,1701388154,30/11/2023 18:49,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser v9-20020ad45289000000b0067a979ee9fesi163661qvr.583 - gsmtp",1701388157,30/11/2023 18:49,,,,,,,,,1701388157,30/11/2023 18:49,,,,,,,,,,,,,keith456@stcharles.k12.la.us
+RPCtBwUAAYwiovSV6qrqM2VZPhYMeg==,,,,,287,Demo request,10.0,Demo request,Your Dacast demo request,,,03d5437e-03b8-0daf-f0a6-0d0a1beea0e2,keith456@stcharles.k12.la.us,1701388154,30/11/2023 18:49,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser x13-20020ac8120d000000b0042378b64997si1891999qti.244 - gsmtp",1701388157,30/11/2023 18:49,,,,,,,,,1701388157,30/11/2023 18:49,,,,,,,,,,,,,keith456@stcharles.k12.la.us
+RPCtBwUAAYwf5GArk3gAqw9y5jJKyA==,,,,,305,live demo requested,13.0,live demo requested,Your Dacast demo request,,,a8f09e07-9fee-cfb5-1535-7a644dfffd30,chloeherman33@gmail.com,1701342109,30/11/2023 06:01,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser p2-20020a05621415c200b0067a2a5473f3si784752qvz.159 - gsmtp",1701342115,30/11/2023 06:01,,,,,,,,,1701342115,30/11/2023 06:01,,,,,,,,,,,,,chloeherman33@gmail.com
+RPCtBwUAAYwf5F_wwH5YrDiaCW4_XA==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,a8f09e07-9fee-cfb5-1535-7a644dfffd30,chloeherman33@gmail.com,1701342109,30/11/2023 06:01,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser ge16-20020a05622a5c9000b00423706f5dd5si828694qtb.327 - gsmtp",1701342115,30/11/2023 06:01,,,,,,,,,1701342115,30/11/2023 06:01,,,,,,,,,,,,,chloeherman33@gmail.com
+RPCtBwUAAYwdt7VDzQrTg3F82QevDA==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,b9cbe2f4-b1ca-343f-523e-5b129e443b7e,vatistasantinis1@gmail.com,1701305627,29/11/2023 19:53,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser bq39-20020a05620a46a700b0077d876e4084si5769888qkb.548 - gsmtp",1701305630,29/11/2023 19:53,,,,,,,,,1701305630,29/11/2023 19:53,,,,,,,,,,,,,vatistasantinis1@gmail.com
+RPCtBwUAAYwYgbi4naArMLhaXkgXuA==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,952b7a84-f0ec-3d64-eb8b-183e859e997a,lnutm@mail.edu.com,1701218203,28/11/2023 19:36,Mailbox does not exist!,1701218207,28/11/2023 19:36,,,,,,,,,1701218208,28/11/2023 19:36,,,,,,,,,,,,,lnutm@mail.edu.com
+RPCtBwUAAYwRV0a4pJNJix0ZkrzCjg==,,,,,305,live demo requested,13.0,live demo requested,Your Dacast demo request,,,f24d0596-1ddb-016a-2bb0-e4cb1e6f896a,higsssygga6@gmail.com,1701097981,27/11/2023 10:13,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser pz12-20020a05620a640c00b0076dac93a764si9888370qkn.379 - gsmtp",1701097985,27/11/2023 10:13,,,,,,,,,1701097992,27/11/2023 10:13,,,,,,,,,,,,,higsssygga6@gmail.com
+RPCtBwUAAYwRV0ZGDCr57zei5Rj50A==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,f24d0596-1ddb-016a-2bb0-e4cb1e6f896a,higsssygga6@gmail.com,1701097981,27/11/2023 10:13,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser ep19-20020a05621418f300b00679dff9c8b1si9082127qvb.403 - gsmtp",1701097985,27/11/2023 10:13,,,,,,,,,1701097992,27/11/2023 10:13,,,,,,,,,,,,,higsssygga6@gmail.com
+RPCtBwUAAYwDcbrFwDfayYLEafsFrA==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,44fbbb94-11cf-800f-2838-169ad5f50435,ostovich888@me.com,1700864834,24/11/2023 17:27,5.1.1 <ostovich888@me.com>: user does not exist,1700864838,24/11/2023 17:27,,,,,,,,,1700864839,24/11/2023 17:27,,,,,,,,,,,,,ostovich@me.com
+RPCtBwUAAYwBAUMuhGw0oozKhOfqxg==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,cd5efc6584173c9b626f94fbb862ecf4,deross777@wabash.net,1700823909,24/11/2023 06:05,User [deross777@wabash.net] does not exist,1700823914,24/11/2023 06:05,,,,,,,,,1700823916,24/11/2023 06:05,,,,,,,,,,,,,deross@wabash.net
+RPCtBwUAAYwAz8YG5kir8458gVpYEw==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,1c7625ca2e195bcf9a30e96c5aa24c15,digital777@pinpointpresents.com,1700820665,24/11/2023 05:11,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser v2-20020a056102226200b00462a44ba74fsi698395vsd.84 - gsmtp",1700820668,24/11/2023 05:11,,,,,,,,,1700820668,24/11/2023 05:11,,,,,,,,,,,,,digital@pinpointpresents.com
+RPCtBwUAAYwAxu7-Qru_4B6joLjvRQ==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,33b4fc4378e9ed1820093744df274ad4,jshawnott777@gmail.com,1700820086,24/11/2023 05:01,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser e12-20020a056102310c00b004629594bcd9si691206vsh.100 - gsmtp",1700820088,24/11/2023 05:01,,,,,,,,,1700820089,24/11/2023 05:01,,,,,,,,,,,,,jshawnott@gmail.com
+RPCtBwUAAYv9aAY9mEAT6qbyTevEFw==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,3ea51be1-27e2-ad1f-e6e5-a07f9b11fd7b,lillyallen7710@gmail.com,1700763534,23/11/2023 13:18,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser ea16-20020ad458b0000000b00679dfa08501si1623343qvb.421 - gsmtp",1700763536,23/11/2023 13:18,,,,,,,,,1700763536,23/11/2023 13:18,,,,,,,,,,,,,lillyallen7710@gmail.com
+RPCtBwUAAYv9VEdXsQ3alTRMdxKg-A==,,,,,240,Confirm email,2.0,Confirm email,Activate your Dacast account,,,b64f0728-3f97-3f87-17da-f56ff8072d72,devin.j.garcia98@gmail.com,1700762240,23/11/2023 12:57,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser j2-20020a05620a410200b00779d59077d4si1636591qko.667 - gsmtp",1700762247,23/11/2023 12:57,,,,,,,,,1700762247,23/11/2023 12:57,,,,,,,,,,,,,devin.j.garcia98@gmail.com
+dgTwrQcDAOX5B-T5BwGL_A1D04XpJ6p-Gy9q2hA=,,,28.0,Newsletter November 2023,365,Newsletter November 2023,,,"The Dacast Insider: Gratitude, Support, Exclusive Data Offer for the End of the Year",,,,RAYQUAWNDENTON@GMAIL.COM,1700740809,23/11/2023 07:00,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser z15-20020a0ce60f000000b00679d7aa907dsi1014596qvm.430 - gsmtp",1700740834,23/11/2023 07:00,,,,,,,,,1700740836,23/11/2023 07:00,,,,,,,,,,,,,RAYQUAWNDENTON@GMAIL.COM
+dgTwrQcDAN_6B976BwGL_A1D06hehFiGjnphPNg=,,,28.0,Newsletter November 2023,365,Newsletter November 2023,,,"The Dacast Insider: Gratitude, Support, Exclusive Data Offer for the End of the Year",,,,tyronlesliew@gmail.com,1700740809,23/11/2023 07:00,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser q1-20020a05620a0c8100b0077d716dd357si918266qki.590 - gsmtp",1700740835,23/11/2023 07:00,,,,,,,,,1700740837,23/11/2023 07:00,,,,,,,,,,,,,tyronlesliew@gmail.com
+dgTwrQcDAMuMCMqMCAGL_A1E8JXolKyjTgkcTcY=,,,28.0,Newsletter November 2023,365,Newsletter November 2023,,,"The Dacast Insider: Gratitude, Support, Exclusive Data Offer for the End of the Year",,,,no.reply.JiirqenSvensson@gmail.com,1700740809,23/11/2023 07:00,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser q22-20020a05620a0d9600b00775cab41eaasi970668qkl.462 - gsmtp",1700740837,23/11/2023 07:00,,,,,,,,,1700740837,23/11/2023 07:00,,,,,,,,,,,,,no.reply.JiirqenSvensson@gmail.com
+dgTwrQcDAIiCCIeCCAGL_A1ElWlQgKYL_SKTYOI=,,,28.0,Newsletter November 2023,365,Newsletter November 2023,,,"The Dacast Insider: Gratitude, Support, Exclusive Data Offer for the End of the Year",,,085d33f2-49bd-2908-3c62-fd7aac5e45b8,ytuploade2.0@gmail.com,1700740809,23/11/2023 07:00,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser de42-20020a05620a372a00b00779df1bedbdsi1006625qkb.310 - gsmtp",1700740836,23/11/2023 07:00,,,,,,,,,1700740843,23/11/2023 07:00,,,,,,,,,,,,,ytuploade2.0@gmail.com
+dgTwrQcDAI6CCI2CCAGL_A1ElZYr-BeyOUjkZkA=,,,28.0,Newsletter November 2023,365,Newsletter November 2023,,,"The Dacast Insider: Gratitude, Support, Exclusive Data Offer for the End of the Year",,,,ehffsgkhfgfu2rmail@gmail.com,1700740809,23/11/2023 07:00,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser f16-20020ac859d0000000b00417dd658ebesi1058837qtf.686 - gsmtp",1700740835,23/11/2023 07:00,,,,,,,,,1700740836,23/11/2023 07:00,,,,,,,,,,,,,ehffsgkhfgfu2rmail@gmail.com
+dgTwrQcDAO7uB-3uBwGL_A1C4OLlj9pa56XKLII=,,,28.0,Newsletter November 2023,365,Newsletter November 2023,,,"The Dacast Insider: Gratitude, Support, Exclusive Data Offer for the End of the Year",,,,tanesha.exum@sendiks.com,1700740809,23/11/2023 07:00,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser vu2-20020a05620a560200b00779d04f3840si968972qkn.213 - gsmtp",1700740834,23/11/2023 07:00,,,,,,,,,1700740895,23/11/2023 07:01,,,,,,,,,,,,,tanesha.exum@sendiks.com
+dgTwrQcDAL3lB7zlBwGL_A1CNWr39SgkuvImLqw=,,,28.0,Newsletter November 2023,365,Newsletter November 2023,,,"The Dacast Insider: Gratitude, Support, Exclusive Data Offer for the End of the Year",,,,mariaot@ristolago.com,1700740809,23/11/2023 07:00,"5.1.1 The email account that you tried to reach does not exist. Please try
+5.1.1 double-checking the recipient's email address for typos or
+5.1.1 unnecessary spaces. Learn more at
+5.1.1  https://support.google.com/mail/?p=NoSuchUser eb8-20020a05620a480800b00773b3e7fda1si968620qkb.555 - gsmtp",1700740834,23/11/2023 07:00,,,,,,,,,1700740834,23/11/2023 07:00,,,,,,,,,,,,,mariaot@ristolago.com
